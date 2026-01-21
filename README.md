@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthiarutla&show_icons=true&locale=en" alt="keerthiarutla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthiarutla&" alt="keerthiarutla" /></p>
+![Snake animation](https://github.com/arutlakeerthireddy-ctrl/arutlakeerthireddy-ctrl/blob/output/github-contribution-grid-snake.svg)
